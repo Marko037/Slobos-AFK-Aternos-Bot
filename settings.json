@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uaru.aternos.host",
+    "ip": "panga.aternos.host",
     "port": 49421,
     "version": "1.21.1",
     "try-creative": false
