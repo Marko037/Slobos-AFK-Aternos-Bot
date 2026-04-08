@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tripletail.aternos.host",
+    "ip": "tilapia.aternos.host",
     "port": 49421,
     "version": "1.21.1",
     "try-creative": false
